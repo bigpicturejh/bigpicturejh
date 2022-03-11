@@ -15,6 +15,9 @@
 * Super resolution
 * Depth estimation
 * Object detection
+## Network compression
+* Network pruning
+* Quantization
 ## Robotic vision
 * Autonomous driving
 <!--
